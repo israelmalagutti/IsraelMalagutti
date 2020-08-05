@@ -11,7 +11,7 @@ Apaixonado por desenvolver novas habilidades(skills).
 - :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
 - 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix.
  
----------------------------------------//---------------------------------------------
+<hr>
 
 ### About me:
 - 🔭 I’m currently looking for work;
