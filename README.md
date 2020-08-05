@@ -4,7 +4,7 @@
 Sou um UI/UX começando a me desenvolver no ramo da programação front-end;<br>
 Apaixonado por desenvolver novas habilidades(skills).
 
-##Sobre mim:
+### Sobre mim:
 - 🔭 Atualmente procurando por trabalhos;
 - 🌱 Aprendendo: HTML5 e CSS3;
 - 🤔 Procuro por ajuda com os fundamentos da UI/UX Design
@@ -13,7 +13,7 @@ Apaixonado por desenvolver novas habilidades(skills).
  
 ---------------------------------------//---------------------------------------------
 
-##About me:
+### About me:
 - 🔭 I’m currently looking for work;
 - 🌱 I’m currently learning HTML5 & CSS3;
 - 🤔 I’m looking for help with fundamentals of UI/UX Design.
