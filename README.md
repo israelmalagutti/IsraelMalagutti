@@ -1,16 +1,24 @@
-### Hi there 👋
+# Israel Malagutti
 
-<!--
-**israelmalagutti/IsraelMalagutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá 👋
+Sou um UI/UX começando a me desenvolver no ramo da programação front-end;
+Apaixonado por desenvolver novas habilidades(skills).
 
-Here are some ideas to get you started:
+Sobre mim:
+- 🔭 Atualmente procurando por trabalhos;
+- 🌱 Aprendendo: HTML5 e CSS3;
+- 🤔 Procuro por ajuda com os fundamentos da UI/UX Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix.
+ 
+---------------------------------------//---------------------------------------------
+
+About me:
+- 🔭 I’m currently looking for work;
+- 🌱 I’m currently learning HTML5 & CSS3;
+- 🤔 I’m looking for help with fundamentals of UI/UX Design.
+- 📫 Contact me: israelmalagutti@gmail.com; www.linkedin.com/in/israel-malagutti
+ <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React
+ <br/> 💬  &nbsp; About me: I like tecnologies, like Valorant, LoL e series on Netflix.
+ --->
