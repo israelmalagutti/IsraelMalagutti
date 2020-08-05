@@ -8,7 +8,6 @@ Sobre mim:
 - 🔭 Atualmente procurando por trabalhos;
 - 🌱 Aprendendo: HTML5 e CSS3;
 - 🤔 Procuro por ajuda com os fundamentos da UI/UX Design
-
 - :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
 - 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix.
  
