@@ -9,7 +9,7 @@ Apaixonado por desenvolver novas habilidades.
 - 🌱 Cursando: Análise & Desenvolvimento de Sistemas;
 - 📫 Entre em contato: israelmalagutti@gmail.com; www.linkedin.com/in/israel-malagutti
 - :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
-- 💬  &nbsp; Sobre mim: Curto tecnologias, games Valorant, LoL e seriados no Netflix.
+- 💬  &nbsp; Sobre mim: Curto tecnologias, video-jogos e seriados.
  
 <hr>
 
@@ -18,5 +18,5 @@ Apaixonado por desenvolver novas habilidades.
 - 🌱 I’m currently studying: Analysis & System Development;
 - 📫 Contact me: israelmalagutti@gmail.com ; www.linkedin.com/in/israel-malagutti ;
 - :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React
-- 💬  &nbsp; About me: I like tecnologies, like Valorant, LoL e series on Netflix.
+- 💬  &nbsp; About me: I like tecnologies, videogames & series.
  --->
