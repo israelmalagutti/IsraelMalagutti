@@ -16,7 +16,6 @@ Apaixonado por desenvolver novas habilidades.
 ### About me:
 - 🔭 I’m currently looking for work;
 - 🌱 I’m currently studying: Analysis & System Development;
-- 📫 Contact me: israelmalagutti@gmail.com ; www.linkedin.com/in/israel-malagutti ;
+- 📫 Contact me: israelmalagutti@gmail.com ; www.linkedin.com/in/israel-malagutti.
 - :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React
 - 💬  &nbsp; About me: I like tecnologies, videogames & series.
- --->
