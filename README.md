@@ -1,7 +1,7 @@
 # Israel Malagutti
 
 ## Olá 👋
-Sou um estudante curioso, que está começando a se desenvolver no ramo da programação front-end;<br>
+Sou um estudante curioso, que está começando a desenvolver aplicações front-end;<br>
 Apaixonado por desenvolver novas habilidades.
 
 ### Sobre mim:
