@@ -5,7 +5,7 @@ Sou um programador curioso, que a desenvolve aplicações front-end em React e R
 Apaixonado por desenvolver novas habilidades.
 
 ### Sobre mim:
-- 🔭 Atualmente procuro por novas oportunidades;
+- 🔭 Trabalho na Pay Theory;
 - 🌱 Graduado em Análise & Desenvolvimento de Sistemas;
 - 📫 Entre em contato: israelmalagutti@gmail.com; www.linkedin.com/in/israelmalagutti
 - :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
@@ -14,7 +14,7 @@ Apaixonado por desenvolver novas habilidades.
 <hr>
 
 ### About me:
-- 🔭 I’m currently looking for work;
+- 🔭 Working at pay theory;
 - 🌱 I'm graduated in System Analysis & Development;
 - 📫 Contact me: israelmalagutti@gmail.com ; www.linkedin.com/in/israelmalagutti.
 - :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React
