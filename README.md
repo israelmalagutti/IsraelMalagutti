@@ -1,21 +1,17 @@
 # Israel Malagutti
 
-## Olá 👋
-Sou um programador curioso, que a desenvolve aplicações front-end em React e React Native;<br>
-Apaixonado por desenvolver novas habilidades.
+Software Engineer at [Pay Theory](https://www.paytheory.com), building payments infrastructure. I write production React/TypeScript by day and hack on game engines, developer tools, and shaders by night.
 
-### Sobre mim:
-- 🔭 Trabalho na Pay Theory;
-- 🌱 Graduado em Análise & Desenvolvimento de Sistemas;
-- 📫 Entre em contato: israelmalagutti@gmail.com; www.linkedin.com/in/israelmalagutti
-- :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
-- 💬  &nbsp; Sobre mim: Curto tecnologia, fotografia, design, seriados e aventuras.
- 
-<hr>
+### What I'm working on
 
-### About me:
-- 🔭 Working at pay theory;
-- 🌱 I'm graduated in System Analysis & Development;
-- 📫 Contact me: israelmalagutti@gmail.com ; www.linkedin.com/in/israelmalagutti.
-- :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React
-- 💬  &nbsp; About me: I like tecnology, photography, design, series and adventures.
+- **[git-wrapper](https://github.com/israelmalagutti/git-wrapper)** — A CLI tool for managing stacked diffs in git. Go, 59% test coverage, 11 releases.
+- **[shtype](https://github.com/israelmalagutti/shtype)** — A terminal-based typing test for developers. Monkeytype for your shell.
+- **GCortex** — An HD-2D farming action RPG built in Godot 4.6 with custom GLSL shaders. Source is private; showcase coming soon.
+
+### What I work with
+
+`TypeScript` `React` `Go` `C++` `GDScript` `GLSL` `GraphQL` `Godot` `OpenGL`
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/israelmalagutti) | israelmalagutti@gmail.com
